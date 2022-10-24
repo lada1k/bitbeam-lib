@@ -1,8 +1,10 @@
 BIT = 8;    // Standard Bitbeam size
 CLE = 9;    // Size for Clemmenti
 
-unit = 8;
-hole = 4.8;
+// Size for Variant = 1.25 * 25.4 * 0.5;
+
+unit = 1.25 * 25.4 * 0.5;
+hole = 8.5;
 rim_h = 1;
 rim_d = 6;
 
